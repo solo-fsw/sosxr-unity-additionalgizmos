@@ -1,4 +1,3 @@
-using SOSXR.EnhancedLogger;
 using UnityEngine;
 
 
@@ -26,12 +25,12 @@ namespace SOSXR.AdditionalGizmos
 
             if (!EndTransform)
             {
-                this.Warning("Cannot draw gizmos, since end is null!");
+                Debug.LogWarning("Cannot draw gizmos, since end is null!");
 
                 return;
             }
 
-            Gizmos.DrawLine(Vector3.zero, EndTransform.position);
+            Gizmos.DrawLine(m_startTransform.position, EndTransform.position);
         }
     }
 }
