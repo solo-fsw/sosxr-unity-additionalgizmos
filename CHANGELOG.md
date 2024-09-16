@@ -18,7 +18,7 @@ The changelog format is based on [Keep a Changelog](https://keepachangelog.com/e
 
 ### Changed
 
--
+- 2020.3 instead of 2021.3.0f1 as minimum version
 
 ### Removed
 

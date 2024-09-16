@@ -1,10 +1,10 @@
 # Additional Gizmos
 - By: Maarten R. Struijk Wilbrink
 - For: Leiden University SOSXR
+- Fully open source: Feel free to add to, or modify, anything you see fit.
 
 This repo contains additional gizmos that can be used in the scene view to help with level design and debugging.
 
-Feel free to add to, or modify, anything you see fit.
 
 
 ## Installation

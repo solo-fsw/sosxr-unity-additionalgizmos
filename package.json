@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Additional Gizmos",
   "description": "A collection of additional gizmos for Unity's Scene View.",
-  "unity": "2021.3",
+  "unity": "2020.3",
   "dependencies": {
   },
   "keywords": [
